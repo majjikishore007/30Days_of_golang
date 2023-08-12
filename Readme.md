@@ -5,6 +5,16 @@
 - Day0 : [Installing and Hello-world](Day0)
 - Day1 : [Integers and Iteration ](Day1)
 - Day2 : [Arrays, Slices ](Day2)
+- Day3 : [Structs, Methods, and Interfaces](Day3)
+
+
+
+
+
+
+## References
+- [golang](https://golang.org/)
+- [letsGo](https://github.com/canro91/LetsGo)
 ## follw me on twitter for more updates: 
  <a href="https://twitter.com/Majjikishore1" target="blank"><img
             src="https://img.shields.io/twitter/follow/Majjikishore1?logo=twitter&style=for-the-badge"
