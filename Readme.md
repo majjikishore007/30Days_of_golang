@@ -6,6 +6,7 @@
 - Day1 : [Integers and Iteration ](Day1)
 - Day2 : [Arrays, Slices ](Day2)
 - Day3 : [Structs, Methods, and Interfaces](Day3)
+- Day4 : [Building a simple shell in go](Day4)
 
 
 
