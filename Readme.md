@@ -11,6 +11,7 @@
 - Day6 : [Maps](Day6)
 - Day7 : [Dependency Injection](Day7)
 - Day8 : [Simple Fortune clone](Day8)
+- Day9 : [Cowsay clone](Day9)
 
 
 
